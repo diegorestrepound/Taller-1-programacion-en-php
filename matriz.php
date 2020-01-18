@@ -1,6 +1,6 @@
 <?php
 
-    $nros_a_generar = 15;
+    $nros_a_generar = 9;
     $numeros = NULL;  
     echo "Los numeros del array...<br />";
     for ($i = 0; $i < $nros_a_generar; $i++ ) {
